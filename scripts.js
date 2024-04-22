@@ -3,3 +3,7 @@ function mostrarFuncao() {
 }
 
 mostrarFuncao()
+
+function escolherUmCurso(){
+    console.log('Escolha o curso que vai melhor lhe atender')
+}
